@@ -11,7 +11,7 @@ The agent utilizes the alpha-beta algorithm (with MinMax) using multiple heurist
 
 Run the 'connectFour.java' file. The user will be prompted with the choice to play against A.I or with a person. If A.I is chosen, the user can choose if the Alpha-Beta algorithm of the Artificial Intelligence should be based with reference to the depth or the time. The higher the depth/time, the better the A.I
 
-For depth (enter an integer value):
+For depth (enter an integer value):  
 1 - Beginner  
 2 - Medium  
 3 - Challenging  
