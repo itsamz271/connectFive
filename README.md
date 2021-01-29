@@ -12,9 +12,9 @@ The agent utilizes the alpha-beta algorithm (with MinMax) using multiple heurist
 Run the 'connectFour.java' file. The user will be prompted with the choice to play against A.I or with a person. If A.I is chosen, the user can choose if the Alpha-Beta algorithm of the Artificial Intelligence should be based with reference to the depth or the time. The higher the depth/time, the better the A.I
 
 For depth (enter an integer value):
-1 - Beginner
-2 - Medium
-3 - Challenging
+1 - Beginner &nbsp;
+2 - Medium &nbsp;
+3 - Challenging &nbsp;
 
 To drop a piece, the user will have to enter the column in which he would like to drop the piece. However, the columns start with 0.
 Hence, to drop the piece in the 1st column, enter '0'.
